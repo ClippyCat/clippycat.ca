@@ -1,0 +1,16 @@
+{% set nav = load_data(path="data/nav.toml") %}
+
+<header>
+<nav>
+<ul class ="clear-list">
+{% for linkI in nav["links"] %}
+{% if current_path == linkI["link"] %}
+<li> <a aria-current="page" href="{{ linkI["link"] }}">{{ linkI["name"] }}</a> </li>
+{% else %}
+<li> <a href="{{ linkI["link"] }}">{{ linkI["name"] }}</a> </li>
+{% endif %}
+{% endfor %}
+</ul>
+</nav>
+</header>
+<br>
