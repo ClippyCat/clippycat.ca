@@ -1,5 +1,5 @@
 links = [
 {name = "Home", link = "/" },
-{name = "Resume", link = "/resume" },
+{name = "Resume", link = "/resume/" },
 {name = "Github", link = "https://github.com/clippycat" }
 ]
