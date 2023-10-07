@@ -2,7 +2,6 @@
 title = "Resume"
 +++
 
-
 # Melody Shih
 
 [phone](tel:778-986-8470)  
