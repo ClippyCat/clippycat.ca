@@ -13,9 +13,9 @@ Visit [ClippyCat on Github](https://github.com/clippycat) to see the full list.
 
 Tech stack: Next.js, Rust, SQLite
 
-VillageVote is a voting system which allows creating polls, voting and populating the results. Besides text based questions like "pizza or pasta?", the application features a calendar to simplify the process of scheduling meetings accross different timezones.
+VillageVote is a voting system which allows creating polls, voting and populating the results. Besides text based questions like "pizza or pasta?", the application features a calendar to simplify the process of scheduling meetings across different timezone.
 
-While many fancy survey tools include more advance features, VillageVote is dedicated to simplicity and accessibility. Regardless of your navigation methods and coffee counts, VillageVote provides an intuitive and user-friendly experience that ensures everyone can participate in the decision-making process with ease.
+While many fancy survey tools include more advance features, VillageVote is dedicated to simplicity and accessibility. Regardless of your navigation methods, VillageVote provides an intuitive and user-friendly experience that ensures everyone can participate in the decision-making process.
 
 ### [Mancala](https://github.com/clippyCat/Mancala)
 
