@@ -4,18 +4,26 @@ title = "Resume"
 
 # Melody Shih
 
-[phone](tel:778-986-8470)  
 [email](mailto:melody1116s@gmail.com)  
 [website](https://clippycat.ca/)  
 [Github](https://github.com/clippycat)
 
 ## Skills
-* Well-developed interpersonal, communication and analytical skills
+### Languages
+* Native level fluency in spoken and written English, Mandarin
+### Programming Languages
+* HTML/CSS/JavaScript
+* Python
+* Rust
+* C/C++
+* C#
+* Java
+* SQL, shell scripting
+
+### Other Technical Skills
 * General computing (iOS, Windows and *nix)
 * Screen-readers (NVDA, Jaws, VoiceOver, Talkback, Orca)
-* Programming languages (C, C++, C#, Rust, Python, Java, JavaScript, HTML, SQL, shell scripting)
 * Understanding of WCAG requirements
-* Native level fluency in spoken and written English, Mandarin
 
 ## Experience
 ### Accessibility Tester (contract), [National Network for Equitable Library Service](https://nnels.ca/): Dec. 2022 — Present
@@ -37,9 +45,6 @@ title = "Resume"
 
 ### Accessibility Tester (volunteer), [lichess.org](https://lichess.org/): Sep. 2020 — Present
 * Testing new features aimed at screen reader users
-
-### Youth Leader (volunteer), [Blind Beginnings Society](https://www.blindbeginnings.ca/): Jun. 2014 — Dec. 2019
-* Assisted in organizing summer camps, annual events, and seasonal fundraising
 
 ### Provincial athlete, [British Columbia Blind Sports and Recreation Association](https://bcblindsports.bc.ca/): 2014 — present
 * Member of British Columbia Goalball Team
