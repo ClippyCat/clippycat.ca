@@ -18,7 +18,8 @@ title = "Resume"
 * C/C++
 * C#
 * Java
-* SQL, shell scripting
+* SQL
+* shell scripting
 
 ### Other Technical Skills
 * General computing (iOS, Windows and *nix)
