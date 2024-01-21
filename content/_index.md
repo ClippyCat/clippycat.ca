@@ -17,6 +17,11 @@ VillageVote is a voting system which allows creating polls, voting and populatin
 
 While many fancy survey tools include more advance features, VillageVote is dedicated to simplicity and accessibility. Regardless of your navigation methods, VillageVote provides an intuitive and user-friendly experience that ensures everyone can participate in the decision-making process.
 
+### [Slide](https://github.com/ClippyCat/slide)
+Tech stack: Python
+
+Here's a slide puzzle which I thoght would be easy to implement. My current code panics at a grid size above 4, but the more efficient salution involves too much spooky math. Learning the theory will remain on my to do list, so let's Blame the language in the meantime.
+
 ### [Mancala](https://github.com/clippyCat/Mancala)
 
 Tech stack: Rust
