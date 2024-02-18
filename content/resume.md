@@ -5,7 +5,9 @@ title = "Resume"
 # Melody Shih
 
 Email: [melody1116s@gmail.com](mailto:melody1116s@gmail.com)
+
 Website: [clippycat.ca](https://clippycat.ca/)
+
 Github: [github.com/clippycat](https://github.com/clippycat)
 
 ## Skills
