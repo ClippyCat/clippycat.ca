@@ -4,9 +4,9 @@ title = "Resume"
 
 # Melody Shih
 
-[email](mailto:melody1116s@gmail.com)  
-[website](https://clippycat.ca/)  
-[Github](https://github.com/clippycat)
+Email: [melody1116s@gmail.com](mailto:melody1116s@gmail.com)
+Website: [clippycat.ca](https://clippycat.ca/)
+Github: [github.com/clippycat](https://github.com/clippycat)
 
 ## Skills
 ### Languages
@@ -42,7 +42,7 @@ title = "Resume"
 ### Front Desk Receptionist, [Richmond Centre for Disability](https://rcdrichmond.org/): May 2021 — Aug. 2021
 * Customer service, fundraising, and office administration assistance
 * RCD YouTube "Get Good At" channel speaker
-* Leading the virtual public speaking program
+* Leader of the virtual public speaking program
 
 ### Accessibility Tester (volunteer), [lichess.org](https://lichess.org/): Sep. 2020 — Present
 * Testing new features aimed at screen reader users
@@ -53,11 +53,12 @@ title = "Resume"
 
 ## Education
 
-### [Southern Alberta Institute of Technology](https://www.sait.ca/)
-* Software Development Diploma: Sep. 2022 — Apr. 2024
+### Software Development Diploma: Sep. 2022 — Apr. 2024
+[Southern Alberta Institute of Technology](https://www.sait.ca/)
 
-### [Simon Fraser University](https://www.sfu.ca/)
-* BSc Software Systems: Sep. 2021 — Aug. 2022
+Full-stack two year software development diploma. Focusing on databases, interface design, systems administration, security, and enterprise solutions.
 
-### [Vancouver Community College](https://www.vcc.ca/)
-* Computing Science and Software Systems Certificate: Sep. 2019 — Apr. 2021
+### Computing Science and Software Systems Certificate: Sep. 2019 — Apr. 2021
+[Vancouver Community College](https://www.vcc.ca/)
+
+First year software development Certificate. Focusing on mathematics, technical communication, procedural and object oriented programming.
