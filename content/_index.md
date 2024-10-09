@@ -13,7 +13,7 @@ Visit [ClippyCat on Github](https://github.com/clippycat) to see the full list.
 
 Tech stack: Javascript, Python
 
-Who needs a complex interface and fancy templates when Markdown takes care of it all? SyncSlide is a synchronized presentation tool that simplifies the experience for both presenters and audiences. Every participant can follow along seamlessly on their own devices, while the presenter retains full control over the content displayed on every screen. Craft your informative, engaging presentations by leveraging the simplicity and power of Markdown and css!
+Who needs a complex interface and fancy templates when Markdown takes care of it all? SyncSlide is a synchronized presentation tool that simplifies the experience for both presenters and audiences. Every participant can follow along seamlessly on their own devices, while the presenter retains full control over the content displayed on every screen. Craft your informative, engaging presentations by leveraging the simplicity and power of Markdown and CSS!
 
 
 ### [VillageVote](https://github.com/ClippyCat/village-vote)
@@ -28,13 +28,13 @@ While many fancy survey tools include more advance features, VillageVote is dedi
 
 Tech stack: Python
 
-Here's a slide puzzle which I thoght would be easy to implement. My current code panics at a grid size above 4, but the more efficient salution involves too much spooky math. Learning the theory will remain on my to do list, so let's Blame the language in the meantime.
+Here's a slide puzzle which I thoght would be easy to implement. My current code panics at a grid size above 4, but the more efficient solution involves too much spooky math. Learning the theory will remain on my to do list, so let's blame the language in the meantime.
 
 ### [Mancala](https://github.com/clippyCat/Mancala)
 
 Tech stack: Rust
 
-Mancala in Rust is my attempt to digitallize the traditional two-player African board game in which players strategically distribute and capture seeds or stones from pits on the board to accumulate points. The project only runs in terminal at the moment, but a web version will be on the way.
+Mancala in Rust is my attempt to digitize the traditional two-player African board game in which players strategically distribute and capture seeds or stones from pits on the board to accumulate points. The project only runs in terminal at the moment, but a web version will be on the way.
 
 ### [Script](https://github.com/ClippyCat/script)
 

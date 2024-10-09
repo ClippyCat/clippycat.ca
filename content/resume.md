@@ -11,25 +11,23 @@ Website: [clippycat.ca](https://clippycat.ca/)
 Github: [github.com/clippycat](https://github.com/clippycat)
 
 ## Skills
-### Languages
-* Native level fluency in spoken and written English, Mandarin
-### Programming Languages
-* HTML/CSS/JavaScript
-* Python
-* Rust
-* C/C++
-* C#
-* Java
-* SQL
-* shell scripting
+### Technical Skills
+* Frontend Web: HTML, CSS, JS, and WAI-ARIA
+* Frameworks: React, Flask, and Node.js
+* Programming languages: Python, Rust, C/C++, C#, Java, SQL, R, and shell scripting
+* Native screen-reader user: NVDA, Jaws, VoiceOver, Talkback, and Orca
+* Conduct comprehensive accessibility audits based on WCAG and Section 508 requirements
+* Project management tools: GitHub, Basecamp, Slack, Google Workspace, and Microsoft Office Suite
 
-### Other Technical Skills
-* General computing (iOS, Windows and *nix)
-* Screen-readers (NVDA, Jaws, VoiceOver, Talkback, Orca)
-* Understanding of WCAG requirements
+### Soft Skills
+* Native level written and verbal communication skills in English and Mandarin
+* Ability to produce high-quality technical documentation with exceptional attention to detail
+* Effective collaboration and interpersonal skills, with experience working in diverse teams
+* Strong time management skills, consistently meeting deadlines and prioritizing tasks efficiently
+* Flexibility to collaborate remotely with colleagues across multiple time zones
 
 ## Experience
-### Accessibility Tester (contract), [National Network for Equitable Library Service](https://nnels.ca/): Dec. 2022 — Present
+### Accessibility Tester, [National Network for Equitable Library Service](https://nnels.ca/): Dec. 2022 — Present
 * Conduct accessibility audits of commercial and library ebook reading applications and websites
 * Evaluate ebook and audiobook files for accessibility based on defined set of criteria
 * Develop demonstrations, presentations, and training materials on accessibility
