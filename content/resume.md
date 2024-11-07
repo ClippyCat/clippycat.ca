@@ -16,7 +16,7 @@ Github: [github.com/clippycat](https://github.com/clippycat)
 * Frameworks: React, Flask, and Node.js
 * Programming languages: Python, Rust, C/C++, C#, Java, SQL, R, and shell scripting
 * Native screen-reader user: NVDA, Jaws, VoiceOver, Talkback, and Orca
-* Conduct comprehensive accessibility audits based on WCAG and Section 508 requirements
+* Conduct comprehensive accessibility audits based on WCAG and Accessible Canada Act requirements
 * Project management tools: GitHub, Basecamp, Slack, Google Workspace, and Microsoft Office Suite
 
 ### Soft Skills
