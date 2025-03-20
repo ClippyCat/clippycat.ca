@@ -9,7 +9,7 @@ Many of my projects are for learning new languages, frameworks and libraries.
 
 Visit [ClippyCat on Github](https://github.com/clippycat) to see the full list.
 
-### [SyncSlide](https://github.com/ClippyCat/syncslide/)
+### [SyncSlide](https://syncslide.clippycat.ca/)
 
 Tech stack: Javascript, Python
 
