@@ -15,6 +15,11 @@ Tech stack: Javascript, Python
 
 Who needs a complex interface and fancy templates when Markdown takes care of it all? SyncSlide is a synchronized presentation tool that simplifies the experience for both presenters and audiences. Every participant can follow along seamlessly on their own devices, while the presenter retains full control over the content displayed on every screen. Craft your informative, engaging presentations by leveraging the simplicity and power of Markdown and CSS!
 
+### [Invisinote](https://github.com/ClippyCat/invisinote)
+
+Tech stack: Python
+
+An NVDA Add-on to browse notes virtually from a folder. Navigate through lines, words and between files with nothing on screen.
 
 ### [VillageVote](https://github.com/ClippyCat/village-vote)
 
@@ -23,12 +28,6 @@ Tech stack: Next.js, Rust, SQLite
 VillageVote is a voting system which allows creating polls, voting and populating the results.  In order to simplify the process of opinion gathering, the application features voting methods including single select, multi select and ranking.
 
 While many fancy survey tools include more advance features, VillageVote is dedicated to simplicity and accessibility. Regardless of your navigation methods, VillageVote provides an intuitive and user-friendly experience that ensures everyone can participate in the decision-making process.
-
-### [Slide](https://github.com/ClippyCat/slide)
-
-Tech stack: Python
-
-Here's a slide puzzle which I thoght would be easy to implement. My current code panics at a grid size above 4, but the more efficient solution involves too much spooky math. Learning the theory will remain on my to do list, so let's blame the language in the meantime.
 
 ### [Mancala](https://github.com/clippyCat/Mancala)
 
@@ -44,12 +43,6 @@ Why enter so many lines of commands when I can get the same tasks done in one? S
 
 Justified by Bill Gates:
 > I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.
-
-### [Number game](https://github.com/ClippyCat/number-game)
-
-Tech stack: C++
-
-My first personal project written in my first programming language. It is a small counting game which contains simple logic.
 
 ---
 
