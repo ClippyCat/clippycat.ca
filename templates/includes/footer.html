@@ -1,0 +1,13 @@
+{% set foot = load_data(path="data/foot.toml") %}
+
+<footer>
+<ul class ="clear-list">
+{% for linkI in foot["links"] %}
+{% if current_path == linkI["link"] %}
+<li> <a aria-current="page" href="{{ linkI["link"] }}">{{ linkI["name"] }}</a> </li>
+{% else %}
+<li> <a href="{{ linkI["link"] }}">{{ linkI["name"] }}</a> </li>
+{% endif %}
+{% endfor %}
+</ul>
+</footer>
