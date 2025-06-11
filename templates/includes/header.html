@@ -4,28 +4,11 @@
 <nav>
 <ul class ="clear-list">
 {% for linkI in nav["links"] %}
-    {% set link = linkI["link"] %}
-    {% set is_external = false %}
-    {% if link is starting_with("http") and not (link is starting_with("https://clippycat.ca") or link is starting_with("http://clippycat.ca")) and not (link is starting_with("mailto:") or link is starting_with("tel:")) %}
-        {% set parts = link | split(pat="://") %}
-        {% if parts | length > 1 %}
-            {% set domain = parts[1] | split(pat="/") | first %}
-            {% if not domain is ending_with(".clippycat.ca") %}
-                {% set is_external = true %}
-            {% endif %}
-        {% endif %}
-    {% endif %}
-    {% if current_path == link %}
-        <li> <a aria-current="page" href="{{ link }}">{{ linkI["name"] }}</a> </li>
-    {% else %}
-        <li>
-            <a href="{{ link }}"
-               {% if is_external %}target="_blank" rel="noopener" class="external"{% endif %}>
-                {{ linkI["name"] }}
-                {% if is_external %}<span aria-label="External link" title="External link">🔗</span>{% endif %}
-            </a>
-        </li>
-    {% endif %}
+{% if current_path == linkI["link"] %}
+<li> <a aria-current="page" href="{{ linkI["link"] }}">{{ linkI["name"] }}</a> </li>
+{% else %}
+<li> <a href="{{ linkI["link"] }}">{{ linkI["name"] }}</a> </li>
+{% endif %}
 {% endfor %}
 </ul>
 </nav>
