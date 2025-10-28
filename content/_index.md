@@ -46,4 +46,4 @@ Justified by Bill Gates:
 
 ---
 
-I also occasionally come up with [randum ideas](/ideas).
+I also occasionally come up with [random ideas](/ideas).
