@@ -4,6 +4,8 @@ body { background-color: #222222; padding: 16px; font-family: -apple-system, hel
 
 #wrapper > header { text-align: center; }
 
+nav li { display: inline;}
+
 .clear-list { list-style-type: none; margin: 0; padding: 0; }
 
 .clear-list li { margin: 0; padding: 0; }
