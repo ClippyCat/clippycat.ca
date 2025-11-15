@@ -2,7 +2,7 @@
 
 <header>
 <nav>
-<ul class ="clear-list">
+<ul role="list" class="clear-list">
 {% for linkI in nav["links"] %}
 {% if current_path == linkI["link"] %}
 <li> <a aria-current="page" href="{{ linkI["link"] }}">{{ linkI["name"] }}</a> </li>
