@@ -1,0 +1,14 @@
+{% set href = link | safe %}
+
+{% set is_external = href is starting_with("http://")
+or href is starting_with("https://") %}
+
+<a href="{{ href }}"
+{% if is_external %}
+target="_blank"
+rel="noopener noreferrer"
+class="external"
+{% endif %}
+>
+{{ text | safe }}
+</a>
