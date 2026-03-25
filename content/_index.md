@@ -21,19 +21,10 @@ Tech stack: Python
 
 An NVDA Add-on to browse notes virtually from a folder. Navigate through lines, words and between files with nothing on screen.
 
-### [VillageVote](https://github.com/ClippyCat/village-vote)
+### [ShellyMcShellface](https://github.com/ClippyCat/ShellyMcShellface)
+ Tech stack: Javascript, Rust
 
-Tech stack: Next.js, Rust, SQLite
-
-VillageVote is a voting system which allows creating polls, voting and populating the results.  In order to simplify the process of opinion gathering, the application features voting methods including single select, multi select and ranking.
-
-While many fancy survey tools include more advance features, VillageVote is dedicated to simplicity and accessibility. Regardless of your navigation methods, VillageVote provides an intuitive and user-friendly experience that ensures everyone can participate in the decision-making process.
-
-### [Mancala](https://github.com/clippyCat/Mancala)
-
-Tech stack: Rust
-
-Mancala in Rust is my attempt to digitize the traditional two-player African board game in which players strategically distribute and capture seeds or stones from pits on the board to accumulate points. The project only runs in terminal at the moment, but a web version will be on the way.
+PowerShell going on strike? Switch to a lightweight CLI tool that continuously streams your terminal commands and output to a local browser in real time.
 
 ### [Script](https://github.com/ClippyCat/script)
 
