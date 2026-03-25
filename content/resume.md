@@ -53,6 +53,9 @@ Github: [github.com/clippycat](https://github.com/clippycat)
 
 ## Education
 
+### Bachelor of Technology – Software Development: Jan. 2026 – Apr. 2027
+[Southern Alberta Institute of Technology](https://www.sait.ca/)
+
 ### Software Development Diploma: Sep. 2022 — Apr. 2024
 [Southern Alberta Institute of Technology](https://www.sait.ca/)
 

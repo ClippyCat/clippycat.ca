@@ -11,7 +11,7 @@ Visit [ClippyCat on Github](https://github.com/clippycat) to see the full list.
 
 ### [SyncSlide](https://syncslide.clippycat.ca/)
 
-Tech stack: Javascript, Python
+Tech stack: Javascript, Rust
 
 Who needs a complex interface and fancy templates when Markdown takes care of it all? SyncSlide is a synchronized presentation tool that simplifies the experience for both presenters and audiences. Every participant can follow along seamlessly on their own devices, while the presenter retains full control over the content displayed on every screen. Craft your informative, engaging presentations by leveraging the simplicity and power of Markdown and CSS!
 
