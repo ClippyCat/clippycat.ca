@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /c/Users/melody/Desktop/bs/programming/myRepo/clippycat.ca log --oneline)",
+      "Bash(find /c/Users/melody/Desktop/bs/programming/myRepo/clippycat.ca -maxdepth 2 -name *.json -o -name *.yaml -o -name *.yml)",
+      "Bash(cmd /c \"C:\\\\Users\\\\melody\\\\Desktop\\\\bs\\\\programming\\\\myRepo\\\\clippycat.ca\\\\sync.bat\")",
+      "Bash(ssh:*)",
+      "Bash(git:*)"
+    ]
+  }
+}
