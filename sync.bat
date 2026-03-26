@@ -1,1 +1,0 @@
-ssh melody@beep.local "ssh arch@clippycat.ca 'cd clippycat.ca && git pull origin main --rebase && zola build -o ~/public -f && cd ~ && sudo cp -r public/* /usr/share/caddy/public/clippycat/'"
